@@ -1,2 +1,0 @@
-# CodeChef
-Codechef practice problems
